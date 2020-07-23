@@ -26,7 +26,7 @@ export const Description = styled.h2`
   font-weight: 400;
 `
 
-export const Ilustration = styled.img`
+export const Illustration = styled.img`
   margin-top: 3rem;
   width: min(30rem, 100%);
 `
